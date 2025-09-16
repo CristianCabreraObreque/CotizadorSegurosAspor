@@ -3,7 +3,7 @@
     <div class="container mx-auto py-3 px-6 flex items-center justify-between">
       <!-- Logo / System Name -->
       <div class="flex items-center">
-        <img src="https://ingws.cl/doc/logo_contempora-removebg.png" alt="Contempora Logo" class="h-8 mr-2" />
+        <img src="/src/assets/logo.png" alt="Logo" class="h-8 mr-2" />
         <div class="text-2xl font-semibold text-primary-500 tracking-wide">
           Cotización de Seguros
         </div>
