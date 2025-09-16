@@ -167,7 +167,7 @@
         <!-- Contempora -->
         <div class="bg-white p-4 rounded-lg shadow">
           <div class="mb-4">
-            <img src="https://ingws.cl/doc/logo_contempora-removebg.png" alt="Contempora" class="h-12">
+            <img src="/src/assets/logo.png" alt="Logo" class="h-12">
           </div>
           <div class="grid grid-cols-6 gap-4">
             <div v-for="(plan, index) in planesContempora" :key="index" 
